@@ -1,1 +1,0 @@
-# Practica_Redes_Neuronales
