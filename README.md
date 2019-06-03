@@ -61,7 +61,7 @@ Introduciendo una neurona más en la capa, el plano se podrá doblar de manera q
 
 ## PRÁCTICA
 
-### Ejercicio 0:
+### Ejercicio 1:
 Pruebe a realizar el ejemplo mencionado anteriormente.
 
 ![alt text](ejercicio%200.PNG)
@@ -73,7 +73,7 @@ Pruebe a realizar el ejemplo mencionado anteriormente.
   c)	Añada una capa más a la red neuronal. En la primera capa coloque 5 neuronas y en la segunda tan solo dos. Ejecute el programa. ¿nota alguna diferencia al sumarle una capa de dos neuronas?
   Ahora intercambien el número de neuronas, establezca 2 en la primera capa y 5 en la segunda, ¿qué podemos observar? 
 
-### Ejercicio 1
+### Ejercicio 2:
 
 Consiga clasificar los datos “Exclusive Or” con el mínimo número de neuronas posibles empleando la función de entrada que prefiera.
 
@@ -85,7 +85,7 @@ b) usando como input X1 y X2, ¿Cuántas capas y neuronas usaría?
 
 c) ¿es posible clasificar estos datos usando tan solo funciones de entrada X1^2, X2^2, sin (X1) y sin(X2)?
 
-### Ejercicio 2
+### Ejercicio 3:
 
 Ejercicio 2
 
@@ -100,7 +100,7 @@ b) ¿Es posible clasificar estos datos usando tan solo como funciones de entrada
 c)¿Qué conclusión podría extraer del ejercicio 1 y 2?
 
 
-### Ejercicio 3
+### Ejercicio 4:
 
 Empleando todas las funciones de entrada posibles al mismo tiempo clasifique una nube de puntos en forma de espiral. ¿Cuántas capas ha usado? ¿Cuál es el número máximo de capas que se pueden emplear y en cada una de ellas se usan 8 neuronas?
 
